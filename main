@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const int TAM = 10000000;
+const int TAM = 10;//para testar uma lista de tamanho diferente, terá que mudar o valor do elemento
 
 
 int main()
