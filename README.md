@@ -29,3 +29,5 @@ Logo após, foi analisado e comparado os resultados obtidos na execução, feita
 • _Ordenar grandes volumes de dados: 100.000 informações; e_
 
 • _Ordenar volumes massivos de dados: 10.000.000 informações._
+
+Foi compilado no IDE Qt Creator.
