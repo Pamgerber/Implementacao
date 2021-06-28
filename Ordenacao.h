@@ -28,7 +28,6 @@ void selectionSort(TIPO lista[TAM], DadosParaAnalise dados[5]){
 
     dados[1].vezesFuncao++;
 
-
     int posMenor; // variável para guardar a posição do menor valor
     TIPO valorMenor; // variável para guardar o valor da posição a ser trocada
 
