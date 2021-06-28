@@ -33,3 +33,7 @@ Logo após, foi analisado e comparado os resultados obtidos na execução, feita
 **Para obter diferentes tamanhos ao executar, terá que mudar o valor do elemento no arquivo (`main.cpp`) _const int TAM_.**
 
 **Foi compilado no IDE Qt Creator.**
+
+**Relatório com análises e comparações em PDF**
+
+
