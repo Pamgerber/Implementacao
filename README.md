@@ -30,4 +30,4 @@ Logo após, foi analisado e comparado os resultados obtidos na execução, feita
 
 • _Ordenar volumes massivos de dados: 10.000.000 informações._
 
-**Para obter diferentes tamanhos quando executar, terá que mudar o valor do elemento no arquivo (`main.cpp`) _const int TAM_. Foi compilado no IDE Qt Creator.**
+**Para obter diferentes tamanhos ao executar, terá que mudar o valor do elemento no arquivo (`main.cpp`) _const int TAM_. Foi compilado no IDE Qt Creator.**
