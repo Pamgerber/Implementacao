@@ -1,6 +1,6 @@
 # Algoritmos de Ordenação
 
-Foi implementado os algoritmos de ordenação, que foram: 
+Foi implementado cinco algoritmos de ordenação, que foram: 
 
 •_Bubble Sort_ 
 
