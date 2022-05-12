@@ -1,6 +1,6 @@
 # Algoritmos de Ordenação
 
-Foi implementado cinco algoritmos de ordenação, que foram: 
+Foi implementado cinco algoritmos de ordenação, que foram :point_down:
 
 •_Bubble Sort_ 
 
